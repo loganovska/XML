@@ -1,1 +1,16 @@
-
+ <?xml version="1.0" encoding="UTF-8" ?> 
+- <root>
+  <Android_apps>bag report</Android_apps> 
+  <Telegram_nickname>@o_s_log</Telegram_nickname> 
+  <Bug_id>16</Bug_id> 
+  <Title>Widget doesn’t have white dash line on display</Title> 
+  <Severity>major</Severity> 
+  <Priority>high</Priority> 
+  <Environment>Redmi Note 7 MIUI 12.5.1.0 android 10 QKQ1.190910.002</Environment> 
+  <Precondition>Phone desktop is empty</Precondition> 
+  <STR>Open application</STR> 
+  <STR>Click the add widget button</STR> 
+  <STR>Pay attention to the icons on the main screen</STR> 
+  <AR>Widget doesn’t have white dash line on display</AR> 
+  <ER>Widget has white dash line on display</ER> 
+  </root>
