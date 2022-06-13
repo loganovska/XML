@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+- <root>
+  <Skill_1_Базовая_теория>Что такое тестирование</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>багрепорты</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>документация</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>виды</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>методы</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>направления тестирования</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>SDLC</Skill_1_Базовая_теория> 
+  <Skill_1_Базовая_теория>STLC</Skill_1_Базовая_теория> 
+  <Skill_2>Что такое клиент-серверная архитектура</Skill_2> 
+  <Skill_3>HTTP Методы запросов на сервер</Skill_3> 
+  <Skill_4>Коды ответов HTTP сервера</Skill_4> 
+  <Skill_5>Структуры HTTP запросов и ответов</Skill_5> 
+  <Skill_6>Что такое JSON</Skill_6> 
+  <Skill_6>XML</Skill_6> 
+  <Skill_6>Их структура</Skill_6> 
+  <Skill_7_Тестирование_API_через_Postman>JS</Skill_7_Тестирование_API_через_Postman> 
+  <Skill_7_Тестирование_API_через_Postman>автотесты API</Skill_7_Тестирование_API_через_Postman> 
+  <Skill_8>Снятие и чтение логов c внешнего сервера</Skill_8> 
+  <Skill_9>Снифинг http web трафика через Charles и Fiddler</Skill_9> 
+  <Skill_10_Dev_Tools_веб_браузеров>Google Chrome</Skill_10_Dev_Tools_веб_браузеров> 
+  <Skill_10_Dev_Tools_веб_браузеров>FireFox</Skill_10_Dev_Tools_веб_браузеров> 
+  <Skill_11_VPN>Как работает</Skill_11_VPN> 
+  <Skill_11_VPN>зачем нужен, как использовать</Skill_11_VPN> 
+  <Skill_11_VPN>варианты инструментов</Skill_11_VPN> 
+  <Skill_12>Мобильное тестирование</Skill_12> 
+  <Skill_13>Особенность iOS</Skill_13> 
+  <Skill_13>Android</Skill_13> 
+  <Skill_13>гайдлайны</Skill_13> 
+  <Skill_14>Сборка iOS приложений на XCode</Skill_14> 
+  <Skill_15>Сборка Android приложений на Android Studio</Skill_15> 
+  <Skill_16_ADB>управление андройд девайсами</Skill_16_ADB> 
+  <Skill_17>Настройка прокси и vpn на iOS и Android</Skill_17> 
+  <Skill_18>сниффинг мобильного трафика через Charles и Fiddler на iOS и Android</Skill_18> 
+  <Skill_19_terminal_Linux>копирование</Skill_19_terminal_Linux> 
+  <Skill_19_terminal_Linux>создание</Skill_19_terminal_Linux> 
+  <Skill_19_terminal_Linux>просмотр</Skill_19_terminal_Linux> 
+  <Skill_19_terminal_Linux>перемещение файлов на серверах без графического интерфейса</Skill_19_terminal_Linux> 
+  <skill_20>Основы bash скриптинг</skill_20> 
+  <skill_20>автоматизация рутинных задач на сервере</skill_20> 
+  <skill_21>Доступ к удалённым серверам</skill_21> 
+  <skill_22_Основы_SQL>Create</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Delete</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Drop</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Insert Into</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Select</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>From</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Where</skill_22_Основы_SQL> 
+  <skill_22_Основы_SQL>Join</skill_22_Основы_SQL> 
+  <skill_23>База данных Postgres</skill_23> 
+  <skill_23>установка</skill_23> 
+  <skill_23>настройка и использование</skill_23> 
+  <skill_24_Нереляционная_база_данных_Redis>установка</skill_24_Нереляционная_база_данных_Redis> 
+  <skill_24_Нереляционная_база_данных_Redis>настройка и использование</skill_24_Нереляционная_база_данных_Redis> 
+  <skill_25>Нагрузочное тестирование в Jmeter</skill_25> 
+  <skill_26>Методология разработки Scrum</skill_26> 
+  <skill_27_Python>Изучение основ</skill_27_Python> 
+  <skill_27_Python>Создание клиент серверного приложения</skill_27_Python> 
+  </root>
